@@ -1,3 +1,7 @@
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/Jimmy.the.dev)
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Jimmy.the.dev)
+
 # Microsoft Office 365 Update Tool
 
 ## User Guide
@@ -628,3 +632,7 @@ Microsoft may change channel names, availability, identifiers, update behavior, 
 ---
 
 ## End of User Guide
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/Jimmy.the.dev)
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Jimmy.the.dev)
