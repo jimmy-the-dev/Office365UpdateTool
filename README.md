@@ -4,6 +4,8 @@
 
 # Microsoft Office 365 Update Tool
 
+<img width="1162" height="882" alt="Screenshot1" src="https://github.com/user-attachments/assets/ffbcff6a-a5b2-42a5-9179-249d39579586" />
+
 ## User Guide
 
 <a id="toc"></a>
